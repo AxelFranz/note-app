@@ -12,6 +12,10 @@
 /.next/
 /out/
 
+# pocketbase
+pocketbase.exe
+pb_data/
+
 # production
 /build
 
